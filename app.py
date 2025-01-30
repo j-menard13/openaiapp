@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.desertsun.com/gcdn/presto/2021/04/25/NDAT/91e74c75-12fd-40b2-9402-493f8e956fd7-Baseball.jpg?width=660&height=403&fit=crop&format=pjpg&auto=webp", caption="AI-Powered Streamlit App")
+st.image("https://static.scientificamerican.com/sciam/cache/file/D78BCB5B-A9C5-4049-A91EE4149D222A85_source.jpg?w=600", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
